@@ -1,2 +1,3 @@
-# pubsub-dataflow-bigquery-beam
-pubsub-dataflow-bigquery-beam
+# gcp-dataflow-pipeline
+Example Project for GCP dataflow pipeline
+
